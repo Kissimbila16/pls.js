@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
-        <div className={styles.grid}>
-           <div className={styles.flex}>
+        <div>
+           <div >
 <span> 
     <i className="fa fa-facebook">  </i> 
     <i className="fa fa-google">  </i> 
